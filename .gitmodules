@@ -23,3 +23,8 @@
 	url = https://github.com/tagteam/riskregression
 	shallow = true
 	registered = true
+[submodule "SmoothHazard"]
+	path = SmoothHazard
+	url = https://github.com/cran/SmoothHazard
+	shallow = true
+	registered = true
