@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Publish"]
+	path = Publish
+	url = https://github.com/tagteam/publish
+[submodule "SmoothHazard"]
+	path = SmoothHazard
+	url = https://github.com/cran/SmoothHazard
 [submodule "pec"]
 	path = pec
 	url = https://github.com/tagteam/pec
 [submodule "prodlim"]
 	path = prodlim
 	url = https://github.com/tagteam/prodlim
-[submodule "Publish"]
-	path = Publish
-	url = https://github.com/tagteam/publish
 [submodule "riskRegression"]
 	path = riskRegression
 	url = https://github.com/tagteam/riskregression
-[submodule "SmoothHazard"]
-	path = SmoothHazard
-	url = https://github.com/cran/SmoothHazard
