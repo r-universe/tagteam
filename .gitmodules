@@ -5,9 +5,6 @@
 [submodule "Publish"]
 	path = Publish
 	url = https://github.com/tagteam/publish
-[submodule "SmoothHazard"]
-	path = SmoothHazard
-	url = https://github.com/cran/SmoothHazard
 [submodule "pec"]
 	path = pec
 	url = https://github.com/tagteam/pec
