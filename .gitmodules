@@ -8,6 +8,9 @@
 [submodule "SmoothHazard"]
 	path = SmoothHazard
 	url = https://github.com/cran/SmoothHazard
+[submodule "heaven"]
+	path = heaven
+	url = https://github.com/tagteam/heaven
 [submodule "pec"]
 	path = pec
 	url = https://github.com/tagteam/pec
